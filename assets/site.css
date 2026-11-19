@@ -1,0 +1,9 @@
+:root { color-scheme: light; font: 18px/1.6 system-ui, sans-serif; }
+body { margin: 0; color: #17202a; background: #f8fafc; }
+header, main { width: min(68rem, calc(100% - 2rem)); margin-inline: auto; }
+header { padding-block: 1rem; }
+main { padding-block: clamp(2rem, 8vw, 6rem); }
+h1 { max-width: 18ch; font-size: clamp(2.25rem, 7vw, 5rem); line-height: 1; }
+img { display: block; width: min(100%, 42rem); height: auto; margin-block: 2rem; }
+.button { display: inline-block; padding: .7rem 1rem; color: white; background: #0b5c78; border-radius: .3rem; }
+@media (max-width: 36rem) { :root { font-size: 16px; } }

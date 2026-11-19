@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-labelledby="title">
+  <title id="title">Roof protecting a house</title>
+  <rect width="800" height="420" fill="#d9eef5"/>
+  <path d="M170 220 400 70l230 150" fill="none" stroke="#0b5c78" stroke-width="42" stroke-linejoin="round"/>
+  <path d="M235 210h330v160H235z" fill="#fff" stroke="#17202a" stroke-width="12"/>
+  <path d="M365 270h70v100h-70z" fill="#f0aa3c"/>
+</svg>
